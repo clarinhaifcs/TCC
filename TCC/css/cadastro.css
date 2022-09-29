@@ -1,0 +1,35 @@
+body {
+    background-color: #E0FFFF;
+}
+ p {
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: justify;
+}
+h2{
+    margin-top: -100px;
+    margin-bottom: 100px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: center;
+}
+img.logo {
+    display: block;
+    margin-top: 25px;
+    margin-left: 1100px;
+    margin-right: auto 
+}
+input.btn {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background: #20B2AA;
+    color: white;
+    border-radius: 20px;
+    border-color: #20B2AA;
+    height: 40px;
+    width: 150px;
+    text-shadow: none;
+}

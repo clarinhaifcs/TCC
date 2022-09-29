@@ -1,0 +1,48 @@
+body {
+    background-color: #E0FFFF;
+}
+h2{
+    margin-top: -100px;
+    margin-bottom: 100px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: center;
+}
+p, h4 {
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: "Verdana", sans-serif;
+    color: #008080; 
+    text-align: justify;
+}
+img.logo {
+    display: block;
+    margin-top: 25px;
+    margin-left: 1100px;
+    margin-right: auto 
+}
+.btnEnviar {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #008080;
+    height: 30px;
+    width: 105px;
+    text-shadow: none;
+}
+input.btnVoltar{
+    margin-left: 200px; 
+    margin-bottom: 50px;
+    margin-top: -51px;
+    background: #48D1CC;
+    color: white;
+    border-radius: 20px;
+    border-color: #008080;
+    height: 30px;
+    width: 105px;
+    text-shadow: none;
+}
+
